@@ -30,4 +30,9 @@ public boolean verifyLogout()throws Throwable
 		return false;
 	}
 }
+public String login(String username,String password)
+{
+	return password;
+	
+}
 }
